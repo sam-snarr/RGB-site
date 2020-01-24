@@ -46,7 +46,7 @@ function initialize(){
                 h1.style.background = clickedColor;
             }
             else{
-                this.style.background = 'black';
+                this.style.background = '#232323';
                 messageDisplay.textContent = 'Try Again';
             }
         });
